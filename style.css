@@ -37,7 +37,7 @@ body, html {
 .card3 {
     background-color: var(--ery-dark-cyan);
 }
-h2 {
+h1 {
     font-family: 'Big Shoulders Display', cursive;
     text-transform: uppercase;
     font-size: 30px;
